@@ -3,10 +3,10 @@
 In order to compile follow the steps given for each file
 
 Server: 
-gcc 20162010_assign_2_server.c -lm -std=c99 -o server
+gcc crypto_server.c -lm -std=c99 -o server
 
 Client: 
-gcc 20162010_assign_2_client.c -lm -std=c99 -o client
+gcc crypto_client.c -lm -std=c99 -o client
 
 To run the program follow the steps:
 
