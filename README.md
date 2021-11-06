@@ -12,5 +12,6 @@ For compiling the client:
 gcc crypto_client.c -lm -std=c99 -o client
 
 For running the server, connecting client to server & simuntaneously testing the encryption & decryption:
+
 ./server 127.0.0.1 
 ./client 127.0.0.1 input.tx
