@@ -1,5 +1,8 @@
 # Crypto-Secured-Chatbox
 
+This project is made for communicating securely on web and also to transfer data securely over the web.
+For brief guide about this project you can go through Project Report and Presentation
+
 In order to compile follow the steps given for each file
 
 Server: 
